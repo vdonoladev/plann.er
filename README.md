@@ -18,10 +18,14 @@
 
 <h2 id="tech">Tecnologias</h2>
 
+<h4>Back-End</h4>
+
 - [Node.JS](https://devdocs.io/node) - Responsável pela lógica de interação e funcionalidades da aplicação.
 - [TypeScript](https://devdocs.io/typescript/) - Um superconjunto de JavaScript que adiciona tipagem estática ao código, ajudando a identificar erros durante o desenvolvimento e proporcionando um código mais robusto e fácil de manter.
 
 <h3>Bibliotecas e Ferramentas</h3>
+
+<h4>Back-End</h4>
 
 - [SQLite](https://devdocs.io/sqlite/) - Banco de dados leve e eficiente.
 - [Prisma](https://www.prisma.io/docs) - ORM para facilitar a interação com o banco de dados.
